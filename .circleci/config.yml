@@ -128,7 +128,7 @@ jobs:
       - checkout
       - add_ssh_keys:
           fingerprints:
-            - ""
+            - "5f:f9:fa:1a:af:f7:82:82:6a:b1:8f:5e:0f:a2:55:7a"
       - attach_workspace:
           at: ~/
       - run:
@@ -155,7 +155,7 @@ jobs:
       - checkout
       - add_ssh_keys:
           fingerprints:
-            - ""
+            - "5f:f9:fa:1a:af:f7:82:82:6a:b1:8f:5e:0f:a2:55:7a"
       - attach_workspace:
           at: ~/
       - run:
@@ -205,7 +205,7 @@ jobs:
       - checkout
       - add_ssh_keys:
           fingerprints:
-            - ""
+            - "5f:f9:fa:1a:af:f7:82:82:6a:b1:8f:5e:0f:a2:55:7a"
       - attach_workspace:
           at: ~/
       - run:
